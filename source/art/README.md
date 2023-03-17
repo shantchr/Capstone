@@ -1,2 +1,2 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Art Source
+Source files pertaining to game art
