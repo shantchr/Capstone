@@ -1,2 +1,2 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Production Documents
+Items from meetings, planning, etc.
