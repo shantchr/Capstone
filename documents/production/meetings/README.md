@@ -1,2 +1,2 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Meetings
+Production documents derived from group meetings

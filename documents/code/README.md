@@ -1,2 +1,2 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Code Documents
+Code Documentation
