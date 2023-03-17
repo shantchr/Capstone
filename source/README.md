@@ -1,2 +1,3 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Source Documentation
+
+Source files related to Art, Code, and Design
