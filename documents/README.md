@@ -1,2 +1,2 @@
-# Capstone
-Sheridan Capstone Documentation and Bookkeeping
+# Documents
+Art/Code/Design/Production documentation
