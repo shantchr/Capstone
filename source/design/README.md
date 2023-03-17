@@ -1,2 +1,2 @@
 # Design Source
-Source files pertaining to design
+Source files pertaining to game design
